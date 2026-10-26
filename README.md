@@ -1,6 +1,14 @@
 <div align="center">
 
 # 📦 F6 Extractor
+<div align="center">
+  <br>
+  <a href="https://github.com/AcademyF6Team/F6-EXtractor/releases/latest">
+    <img src="https://img.shields.io/badge/📥_تحميل_التطبيق_الآن-APK-brightgreen?style=for-the-badge&logo=android" alt="تحميل التطبيق" height="45">
+  </a>
+  <br>
+  <br>
+</div>
 **أداة أندرويد عالية الأداء لاستخراج، نسخ، وفحص التطبيقات بدون صلاحيات الجذر (Root)**
 
 [![الإصدار](https://img.shields.io/badge/Version-2.4.0-brightgreen.svg)]()
